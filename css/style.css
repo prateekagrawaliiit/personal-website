@@ -7894,7 +7894,7 @@ header {
   .wrap .about-desc .bold-text {
     position: absolute;
     top: -80px;
-    left: -50px;
+    left: 0px;
     right: 0;
     bottom: 0;
     font-weight: 700 !important;
